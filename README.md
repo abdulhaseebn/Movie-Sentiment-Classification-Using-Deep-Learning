@@ -4,6 +4,16 @@ This project uses a deep learning model (Bidirectional LSTM with GloVe embedding
 
 ---
 
+## 📌 Project Goals
+
+- Apply deep learning (BiLSTM) for sentiment classification
+- Leverage pre-trained GloVe embeddings for word understanding
+- Train and evaluate using balanced IMDb review data
+- Visualize performance using metrics and plots
+- Sentiment prediction on custom inputs
+
+---
+
 ## 📌 Overview
 
 This sentiment classification task uses a dataset of IMDb movie reviews with binary sentiment labels (positive or negative). The goal is to build a robust NLP pipeline that performs effective sentiment classification using deep learning techniques.
@@ -15,7 +25,6 @@ This sentiment classification task uses a dataset of IMDb movie reviews with bin
 - Total labeled reviews: **50,000**
 - **25,000** training (balanced)
 - **25,000** testing (balanced)
-- **50,000 unlabeled** reviews for unsupervised learning (not used in this project)
 
 **Label definition:**
 - **Positive**: Rating ≥ 7 out of 10  
@@ -53,8 +62,7 @@ This sentiment classification task uses a dataset of IMDb movie reviews with bin
 ![Movie Review CM](https://github.com/user-attachments/assets/5d058f5e-f155-47ec-8617-5ec36a4f690e)
 
 
-## 🚀 How to Use
-
-
-
-
+## 🙏 Acknowledgements
+Dataset: IMDb Large Movie Review Dataset
+Embeddings: GloVe: Global Vectors for Word Representation
+Libraries: TensorFlow, scikit-learn, matplotlib, seaborn
