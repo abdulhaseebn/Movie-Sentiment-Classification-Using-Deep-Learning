@@ -61,8 +61,17 @@ This sentiment classification task uses a dataset of IMDb movie reviews with bin
 
 ![Movie Review CM](https://github.com/user-attachments/assets/5d058f5e-f155-47ec-8617-5ec36a4f690e)
 
+Sentiment Prediction on Sample Input.
+
+![Prediction](https://github.com/user-attachments/assets/ef35c772-5b35-4be5-a206-690f8a3bd62e)
+
 
 ## 🙏 Acknowledgements
-Dataset: IMDb Large Movie Review Dataset
-Embeddings: GloVe: Global Vectors for Word Representation
-Libraries: TensorFlow, scikit-learn, matplotlib, seaborn
+
+- **Dataset**: [IMDb Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
+- **Embeddings**: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+- **Libraries**:  
+  - [TensorFlow](https://www.tensorflow.org/)  
+  - [scikit-learn](https://scikit-learn.org/)  
+  - [matplotlib](https://matplotlib.org/)  
+  - [seaborn](https://seaborn.pydata.org/)
