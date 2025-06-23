@@ -48,7 +48,7 @@ This sentiment classification task uses a dataset of IMDb movie reviews with bin
 | Recall     | 89.19%   |
 | F1-score   | 85.21%   |
 
-🔍 Confusion matrix and ROC curve are saved as images in the repo.
+🔍 Confusion matrix for detailed analysis
 
 ![Movie Review CM](https://github.com/user-attachments/assets/5d058f5e-f155-47ec-8617-5ec36a4f690e)
 
